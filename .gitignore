@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Downloaded binaries and archives
+bin/
+*.tar.gz
+*.zip
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.cache
+
+# Homebrew
+*.bottle.*
+*.lock
+
