@@ -1,7 +1,7 @@
 install:
 	brew install --build-from-source ./Formula/picordm.rb
 
-version = 0.4.1
+version = 0.5.0
 
 download:
 	curl -LO https://github.com/osdodo/picordm/releases/download/v$(version)/picordm-v$(version)-macos-aarch64.tar.gz

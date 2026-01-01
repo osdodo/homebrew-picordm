@@ -37,5 +37,6 @@ PicoRDM is a lightweight Redis terminal management tool built with Rust and Rata
 - **Server Monitoring** - Real-time server stats
 - **Command Interface** - Execute Redis commands directly
 - **Import/Export** - JSON data import/export with full Redis type support
+- **Theme Support** - Dark/Light theme
 
 For more information, visit the [main repository](https://github.com/osdodo/picordm).
